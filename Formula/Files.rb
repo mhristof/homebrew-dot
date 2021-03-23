@@ -1,4 +1,4 @@
-class Foo < Formula
+class Files < Formula
   desc "Install mikes dotfiles"
   homepage ""
   #url "https://example.com/foo-0.1.tar.gz"
